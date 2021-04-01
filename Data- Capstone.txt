@@ -1,0 +1,11 @@
+• Data for the Toronto neighborhoods and zip code would be collected from the webpage 'https://en.wikipedia.org/wiki/List_of_neighbourhoods_in_Toronto'
+  and the longitiude and latitude coordinates would be collected from https://cocl.us/Geospatial_data
+
+• Data would be transformed into a dataframe as well as cleaned and refined 
+
+• Data related to locations and quality of Indian restaurants would be obtained via the FourSquare API
+  FourSquare would be used to locate all venues and then filtered by Indian restaurants. Ratings, tips, and likes by users will be counted and added to the dataframe.
+
+• Data would then be sorted based on rankings
+
+• Finally, the data be will be visually assessed using graphing from various Python libraries.
