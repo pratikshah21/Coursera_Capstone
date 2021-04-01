@@ -1,0 +1,9 @@
+The project explores the best locations of Indian restaurants in the Toronto neighborhood. Toronto is Canada's largest city with diverse
+population with high international immigration. There are restaurants of different cuisines in the city but the project will focus on the
+Indian cuisine. According to census Canada there were 350,040 South Asian people in the Toronto region. This indicates a significant 
+amount of peolpe who might be looking at dining at the Indian restaurants. 
+
+The target audience for this project would be-
+- A person looking to invest in an existing restaurant
+- A person looking to open a new restuarant
+- People who are looking to move in a different neighborhood    
